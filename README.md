@@ -1,5 +1,4 @@
 # hacker-rank-solutions
-my solutions for HackerRank puzzles
 
 | language         | section          | solution               |
 | ---------------- | ---------------- | ---------------------- |
