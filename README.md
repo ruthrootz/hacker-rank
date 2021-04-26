@@ -1,2 +1,2 @@
 # hacker-rank
-my solutions for HackerRank puzzles
+[my solutions](https://www.hackerrank.com/ruthrootz) for HackerRank puzzles
