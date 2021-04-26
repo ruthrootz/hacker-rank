@@ -1,5 +1,5 @@
 # hacker-rank-solutions
-[my solutions](https://www.hackerrank.com/ruthrootz) for HackerRank puzzles
+my solutions for HackerRank puzzles
 
 | language         | section          | solution               |
 | ---------------- | ---------------- | ---------------------- |
