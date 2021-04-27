@@ -1,26 +1,27 @@
 if __name__ == '__main__':
 
+    current_list = []
     N = int(input())
 
     for _ in range(0, N):
         command = input()
         split_command = command.split(' ')
         if split_command[0] == 'print':
-            print('print')
+            print(current_list)
         elif split_command[0] == 'append':
-            print('append')
+            current_list.append(int(split_command[1]))
         elif split_command[0] == 'remove':
-            print('remove')
+            current_list.remove(int(split_command[1]))
         elif split_command[0] == 'sort':
-            print('sort')
+            current_list.sort()
         elif split_command[0] == 'pop':
-            print('pop')
+            current_list.pop()
         elif split_command[0] == 'reverse':
-            print('reverse')
+            current_list.reverse()
         elif split_command[0] == 'insert':
-            print('insert')
+            current_list.insert(int(split_command[1]), int(split_command[2]))
         else:
-            print('error')
+            print('invalid command')
 
 # sample input:
 # 12
