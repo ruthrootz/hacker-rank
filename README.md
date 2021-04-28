@@ -1,4 +1,4 @@
-# hacker-rank-solutions
+# hacker rank solutions
 
 | language         | section          | solution               |
 | ---------------- | ---------------- | ---------------------- |
