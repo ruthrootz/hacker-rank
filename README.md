@@ -7,4 +7,4 @@
 |                  |                  | [lists](https://github.com/ruthrootz/hacker-rank-solutions/blob/main/python/basic-data-types/lists.py) |
 |                  |                  | [tuples](https://github.com/ruthrootz/hacker-rank-solutions/blob/main/python/basic-data-types/tuples.py) |
 |                  | strings          | [swap case](https://github.com/ruthrootz/hacker-rank-solutions/blob/main/python/strings/swap-case.py) |
-|                  |                  |  [string split and join](https://github.com/ruthrootz/hacker-rank-solutions/blob/main/python/strings/string-split-and-join.py) |
+|                  |                  | [string split and join](https://github.com/ruthrootz/hacker-rank-solutions/blob/main/python/strings/string-split-and-join.py) |
